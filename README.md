@@ -129,10 +129,6 @@ Platform engineering apprentice focused on **infrastructure, networking, virtual
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Soluk09&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="95%"/>
-
-<br/><br/>
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soluk09&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Soluk09)
 
 </div>
@@ -149,27 +145,7 @@ Platform engineering apprentice focused on **infrastructure, networking, virtual
 
 <br/><br/>
 
-```
-                                    .  ARCTIC OCEAN  .
-                          .   .  ___   .         .
-                     .  _,-~"   "~-._  ___
-                   _.-~"  EUROPE     "~,"   "~-._   ASIA
-                 ,"  .              · CH ·       "-.
-               ,"   NORTH         .       .       . "-,
-              /    AMERICA      .   .          .      ".
-             /          ._.        ATLANTIC            ".
-            |    .__,~~"  ".       OCEAN                |
-            |   /  PACIFIC  ".      .                   |
-             \ /   OCEAN     "._ .         AFRICA      /
-              "                  "._.~~--.._          /
-              ".  SOUTH                    "~~-..   ,"
-                ". AMERICA                       \,"
-                  "-._                       _.-"
-                       "~-.._         _..-~"
-                              "~~--~"
-                                 .
-                            ANTARCTICA
-```
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Rotating_earth_animated_transparent.gif" width="280" alt="Rotating Earth"/>
 
 </div>
 
