@@ -11,7 +11,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=1B4BFF&center=true&vCenter=true&width=520&height=40&lines=Platform+Engineer+Apprentice+%C2%B7+Year+2%2F4;Infrastructure+%E2%80%A2+Networking+%E2%80%A2+DevOps;Building+%E2%80%A2+Automating+%E2%80%A2+Learning)](https://github.com/Soluk13)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=1B4BFF&center=true&vCenter=true&width=520&height=40&lines=Platform+Engineer+Apprentice+%C2%B7+Year+2%2F4;Infrastructure+%E2%80%A2+Networking+%E2%80%A2+DevOps;Building+%E2%80%A2+Automating+%E2%80%A2+Learning)](https://github.com/Soluk09)
 
 <br/>
 
@@ -128,19 +128,19 @@ Platform engineering apprentice focused on **infrastructure, networking, virtual
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Soluk09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=450" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soluk13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soluk09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Soluk13&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=Soluk09&theme=tokyonight&hide_border=true" width="60%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Soluk13&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Soluk09&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="95%"/>
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soluk09&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Soluk13)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soluk09&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Soluk09)
 
 </div>
 
@@ -150,7 +150,7 @@ Platform engineering apprentice focused on **infrastructure, networking, virtual
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Soluk13/Soluk13/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Soluk09/Soluk09/output/github-snake-dark.svg)
 
 </div>
 
@@ -171,7 +171,7 @@ $ contact --info
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Soluk13&style=for-the-badge&color=1B4BFF&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=Soluk09&style=for-the-badge&color=1B4BFF&label=PROFILE+VIEWS)
 &nbsp;
 ![Switzerland](https://img.shields.io/badge/Made_in-Switzerland_🇨🇭-red?style=for-the-badge)
 &nbsp;
