@@ -91,15 +91,15 @@ Aug 2023–Jul 2024  Basislehrjahr (BL) + ÜK
 ```
   🟢 NOW  ← LJ 2/4
   │
-  │  Aug 2024
+  │  Aug 2025 
   │  Varioprint AG
   │  Informatiker Plattformentwicklung
   │
-  │  Aug 2023
+  │  Aug 2024 - Aug 2025
   │  Basislehrjahr + ÜK
   │  Sankt Gallen
   │
-  ○  Start Lehre
+  ○  Start Lehre (Aug. 24)
 ```
 
 </td>
