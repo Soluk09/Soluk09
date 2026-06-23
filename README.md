@@ -45,6 +45,12 @@ Platform engineering apprentice focused on **infrastructure, networking, virtual
 
 </div>
 
+```
+  🇨🇭   Switzerland     on paper & in mind     ▰▰▰▰▰▰▰▰▰▰   100%
+  🇩🇪   Germany         heritage · blood       ▰▰▰▰▰▱▱▱▱▱    50%
+  🇭🇷   Croatia         heritage · blood       ▰▰▰▰▰▱▱▱▱▱    50%
+```
+
 ---
 
 ## ` > tech_stack `
