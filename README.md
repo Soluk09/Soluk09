@@ -1,8 +1,3 @@
-<p align="right">
-  <a href="README.en.md"><img src="https://img.shields.io/badge/EN-1B4BFF?style=flat-square" alt="EN"/></a>
-  <a href="README.md"><img src="https://img.shields.io/badge/DE-grey?style=flat-square" alt="DE"/></a>
-</p>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30&height=220&section=header&text=Luka%20Aurelius%20Sola&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Platform%20Engineer%20in%20Training%20%C2%B7%20%F0%9F%87%A8%F0%9F%87%AD&descAlignY=58&descSize=18&descColor=cfd8ff&animation=fadeIn" width="100%"/>
@@ -141,6 +136,71 @@ Platform engineering apprentice focused on **infrastructure, networking, virtual
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soluk09&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Soluk09)
 
 </div>
+
+---
+
+## ` > location `
+
+<div align="center">
+
+<a href="https://www.google.com/maps/place/Switzerland">
+  <img src="https://img.shields.io/badge/📍_Based_in-Switzerland_🇨🇭-1B4BFF?style=for-the-badge&labelColor=101010" alt="Switzerland"/>
+</a>
+
+<br/><br/>
+
+```
+                                    .  ARCTIC OCEAN  .
+                          .   .  ___   .         .
+                     .  _,-~"   "~-._  ___
+                   _.-~"  EUROPE     "~,"   "~-._   ASIA
+                 ,"  .              · CH ·       "-.
+               ,"   NORTH         .       .       . "-,
+              /    AMERICA      .   .          .      ".
+             /          ._.        ATLANTIC            ".
+            |    .__,~~"  ".       OCEAN                |
+            |   /  PACIFIC  ".      .                   |
+             \ /   OCEAN     "._ .         AFRICA      /
+              "                  "._.~~--.._          /
+              ".  SOUTH                    "~~-..   ,"
+                ". AMERICA                       \,"
+                  "-._                       _.-"
+                       "~-.._         _..-~"
+                              "~~--~"
+                                 .
+                            ANTARCTICA
+```
+
+</div>
+
+---
+
+## ` > learning_roadmap `
+
+```
+┌─ DONE ──────────────────────────────────────────────────────────┐
+│  ✓  2024 Q3    Foundation year · inter-company courses          │
+│  ✓  2025 Q3    Apprenticeship start · Varioprint AG  (Y 2/4)    │
+│  ✓  2025 Q4    M141 · Databases & SQL                           │
+└─────────────────────────────────────────────────────────────────┘
+
+┌─ IN PROGRESS ───────────────────────────────────────────────────┐
+│  ◐  2026 Q2    M158/M169 · Docker & Application Deployment      │
+│                progress    ▰▰▰▰▰▰▰▰▱▱   80%                     │
+│  ◐  2026 Q2    Homelab · Monitoring & Automation                │
+│                progress    ▰▰▰▰▰▰▱▱▱▱   60%                     │
+└─────────────────────────────────────────────────────────────────┘
+
+┌─ NEXT UP ───────────────────────────────────────────────────────┐
+│  ○  2026 Q4    Microsoft AZ-900 · Azure Fundamentals            │
+│  ○  2027 Q2    LPIC-1 · Linux System Administrator              │
+│  ○  2027 Q4    CCNA · Cisco Networking                          │
+└─────────────────────────────────────────────────────────────────┘
+
+┌─ GOAL ──────────────────────────────────────────────────────────┐
+│  ★  2028 Q3    Federal Diploma (EFZ) · Platform Engineering     │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
