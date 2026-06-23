@@ -1,9 +1,7 @@
-<div align="right">
-
-[![EN](https://img.shields.io/badge/EN-1B4BFF?style=flat-square)](README.en.md)
-[![DE](https://img.shields.io/badge/DE-grey?style=flat-square)](README.md)
-
-</div>
+<p align="right">
+  <a href="README.en.md"><img src="https://img.shields.io/badge/EN-1B4BFF?style=flat-square" alt="EN"/></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/DE-grey?style=flat-square" alt="DE"/></a>
+</p>
 
 <div align="center">
 
@@ -141,16 +139,6 @@ Platform engineering apprentice focused on **infrastructure, networking, virtual
 <br/><br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soluk09&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Soluk09)
-
-</div>
-
----
-
-## ` > snake.exe `
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Soluk09/Soluk09/output/github-snake-dark.svg)
 
 </div>
 
