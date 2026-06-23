@@ -1,67 +1,86 @@
+<div align="right">
+
+[![EN](https://img.shields.io/badge/EN-1B4BFF?style=flat-square)](README.en.md)
+[![DE](https://img.shields.io/badge/DE-grey?style=flat-square)](README.md)
+
+</div>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Luka%20Aurelius%20Sola&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Platform%20Engineer%20in%20Training%20%C2%B7%20%F0%9F%87%A8%F0%9F%87%AD&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30&height=220&section=header&text=Luka%20Aurelius%20Sola&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Platform%20Engineer%20in%20Training%20%C2%B7%20%F0%9F%87%A8%F0%9F%87%AD&descAlignY=58&descSize=18&descColor=cfd8ff&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=1B4BFF&center=true&vCenter=true&width=600&height=45&lines=Informatiker+Plattformentwicklung+%C2%B7+LJ+2%2F4;Building+%E2%80%A2+Breaking+%E2%80%A2+Learning;Infra+%2F+Networking+%2F+DevOps;Always+curious%2C+always+tinkering)](https://github.com/Soluk13)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=1B4BFF&center=true&vCenter=true&width=520&height=40&lines=Platform+Engineer+Apprentice+%C2%B7+Year+2%2F4;Infrastructure+%E2%80%A2+Networking+%E2%80%A2+DevOps;Building+%E2%80%A2+Automating+%E2%80%A2+Learning)](https://github.com/Soluk13)
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soluk-GBS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-sola-791a97344)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/soluk132)
-[![Mail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luka.aurelius.sola@gmx.ch)
+[![E-Mail](https://img.shields.io/badge/E--Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luka.aurelius.sola@gmx.ch)
 
 </div>
 
 ---
 
-## 👋 whoami
+## ` > whoami `
 
-```yaml
-name:       Luka Aurelius Sola
-role:       Informatiker Plattformentwicklung · LJ 2/4
-company:    Varioprint AG  (via LIBS)
-school:     GBS Sankt Gallen · Riethüsli
-location:   Switzerland 🇨🇭
-focus:      [ infrastructure, networking, virtualization, devops ]
-status:     learning · building · breaking · fixing
+```ansi
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│   name          →   Luka Aurelius Sola                   │
+│   role          →   Platform Engineer Apprentice         │
+│   year          →   2 of 4                               │
+│   company       →   Varioprint AG  (via LIBS)            │
+│   school        →   GBS Sankt Gallen · Riethüsli         │
+│   location      →   Switzerland 🇨🇭                      │
+│   status        →   learning · building · breaking       │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
 ```
 
-> *Tech enthusiast who turns coffee into uptime.*  
-> Outside of work and school I run a self-hosted homelab and explore everything from automation to security tooling.
+Platform engineering apprentice focused on **infrastructure, networking, virtualization and automation**. Currently in year 2 of 4 at Varioprint AG, attending vocational school at GBS Sankt Gallen.
 
 ---
 
-## 🛠️ Stack
+## ` > tech_stack `
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-### ⚙️ Infrastructure
+#### Infrastructure
+```
+▰▰▰▰▰▰▰▱▱▱
+```
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Win Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![AD](https://img.shields.io/badge/Active_Directory-003366?style=flat-square&logo=microsoft&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=flat-square&logo=microsoft&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
-### 🤖 Automation
+#### Automation
+```
+▰▰▰▰▰▰▱▱▱▱
+```
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GH Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
-### 📡 Monitoring
+#### Monitoring
+```
+▰▰▰▰▰▱▱▱▱▱
+```
 ![PRTG](https://img.shields.io/badge/PRTG-brightgreen?style=flat-square)
 ![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=flat-square&logo=uptimekuma&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
@@ -72,7 +91,7 @@ status:     learning · building · breaking · fixing
 
 ---
 
-## 🧠 Currently Learning
+## ` > now_learning `
 
 <div align="center">
 
@@ -85,56 +104,39 @@ status:     learning · building · breaking · fixing
 
 ---
 
-## 🎯 What I'm Up To
+## ` > timeline `
 
-```diff
-+ [LJ 2/4]  Deepening platform & DevOps knowledge at Varioprint AG
-+ [School]  M158/M169 · Dockerized application migrations
-+ [Lab]     Self-hosted services & automation workflows
-+ [Side]    Tinkering with hardware & security tooling
-! [Goal]    Cloud-native skills → K8s, IaC, GitOps
+```
+   ●  Aug 2024  ────────────────  Apprenticeship start · Foundation year
+   │                              Sankt Gallen · inter-company courses
+   │
+   ●  Aug 2025  ────────────────  Varioprint AG  (via LIBS)
+   │                              Year 2 / 4
+   │                              GBS Sankt Gallen · 2 days/week        ◄── you are here
+   │
+   ◌  Aug 2027  ────────────────  Year 3 / 4
+   │                              1 school day per week
+   │
+   ◌  Summer 2028  ─────────────  Federal Diploma (EFZ)
+                                  Platform Engineering
 ```
 
 ---
 
-## 📅 Journey
+## ` > stats `
 
 <div align="center">
 
-```
-   ●  Aug 2024 ──────────  Start Lehre · Basislehrjahr (BL)
-   │                        Sankt Gallen · ÜK-Module
-   │
-   │
-   ●  Aug 2025 ──────────  Lehrbetrieb · Varioprint AG (via LIBS)
-   │                        LJ 2/4 · Plattformentwicklung
-   │                        GBS Sankt Gallen · 2 Tage/Woche
-   │
-   │
-   ◌  Aug 2027 ──────────  LJ 3/4 · 1 Tag Schule/Woche
-   │
-   │
-   ◌  Sommer 2028 ───────  EFZ · Informatiker Plattformentwicklung
-```
-
-</div>
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Soluk13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soluk13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Soluk13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=450" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soluk13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Soluk13&theme=tokyonight&hide_border=true&date_format=j.%20M%5B.%20Y%5D&locale=de" width="58%"/>
+<img src="https://streak-stats.demolab.com?user=Soluk13&theme=tokyonight&hide_border=true" width="60%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Soluk13&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Soluk13&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="95%"/>
 
 <br/><br/>
 
@@ -144,7 +146,7 @@ status:     learning · building · breaking · fixing
 
 ---
 
-## 🐍 Contributions
+## ` > snake.exe `
 
 <div align="center">
 
@@ -154,13 +156,16 @@ status:     learning · building · breaking · fixing
 
 ---
 
-## 💭 Random Quote
+## ` > contact `
 
-<div align="center">
+```bash
+$ contact --info
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+  ├─ mail .......  luka.aurelius.sola@gmx.ch
+  ├─ linkedin ...  /in/luka-sola-791a97344
+  ├─ github .....  /Soluk-GBS
+  └─ location ...  Switzerland
+```
 
 ---
 
@@ -170,12 +175,10 @@ status:     learning · building · breaking · fixing
 &nbsp;
 ![Switzerland](https://img.shields.io/badge/Made_in-Switzerland_🇨🇭-red?style=for-the-badge)
 &nbsp;
-![Year](https://img.shields.io/badge/2026-LJ_2%2F4-1B4BFF?style=for-the-badge)
+![Year](https://img.shields.io/badge/2026-Year_2%2F4-1B4BFF?style=for-the-badge)
 
 <br/>
 
-> *"It's not a bug — it's an undocumented feature."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30&height=120&section=footer" width="100%"/>
 
 </div>
