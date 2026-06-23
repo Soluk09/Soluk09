@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1B4BFF&height=180&section=header&text=Luka%20Aurelius%20Sola&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Informatiker%20Plattformentwicklung%20%C2%B7%20LJ%202%2F4&descAlignY=58&descColor=aaaaff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Luka%20Aurelius%20Sola&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Platform%20Engineer%20in%20Training%20%C2%B7%20%F0%9F%87%A8%F0%9F%87%AD&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=1B4BFF&center=true&vCenter=true&width=500&lines=Building+home+labs+%26+smart+home+stacks;Networking+%2F+Virtualization+%2F+DevOps;Switzerland+%F0%9F%87%A8%F0%9F%87%AD+%C2%B7+Always+learning)](https://github.com/Soluk13)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=1B4BFF&center=true&vCenter=true&width=600&height=45&lines=Informatiker+Plattformentwicklung+%C2%B7+LJ+2%2F4;Building+%E2%80%A2+Breaking+%E2%80%A2+Learning;Infra+%2F+Networking+%2F+DevOps;Always+curious%2C+always+tinkering)](https://github.com/Soluk13)
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soluk-GBS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-sola-791a97344)
@@ -21,86 +17,54 @@
 
 ---
 
-## 👤 About
+## 👋 whoami
 
-Tech enthusiast from **Switzerland**, currently in year **2 of 4** as an *Informatiker Plattformentwicklung* at **Varioprint AG** via LIBS. I attend **GBS Sankt Gallen** (Riethüsli) two days a week and spend the rest building, automating, and breaking things.
+```yaml
+name:       Luka Aurelius Sola
+role:       Informatiker Plattformentwicklung · LJ 2/4
+company:    Varioprint AG  (via LIBS)
+school:     GBS Sankt Gallen · Riethüsli
+location:   Switzerland 🇨🇭
+focus:      [ infrastructure, networking, virtualization, devops ]
+status:     learning · building · breaking · fixing
+```
 
-My focus is IT infrastructure, platform operations, networking, virtualization, and DevOps. Outside work and school I run a multi-layer home lab with UniFi, VLANs, Docker, and a growing self-hosted service stack.
-
----
-
-## 🧰 Stack
-
-**Infrastructure & Networking**
-
-![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=flat-square&logo=microsoft&logoColor=white)
-
-**Automation & Monitoring**
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![PRTG](https://img.shields.io/badge/PRTG-brightgreen?style=flat-square)
-![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=flat-square&logo=uptimekuma&logoColor=black)
-
-**Self-hosted Services**
-
-![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white)
-![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)
-![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=flat-square&logo=bitwarden&logoColor=white)
-![Paperless-ngx](https://img.shields.io/badge/Paperless--ngx-17541F?style=flat-square)
-![AdGuard](https://img.shields.io/badge/AdGuard_Home-68BC71?style=flat-square&logo=adguard&logoColor=white)
+> *Tech enthusiast who turns coffee into uptime.*  
+> Outside of work and school I run a self-hosted homelab and explore everything from automation to security tooling.
 
 ---
 
-## 🚀 Projects
-
-| # | Project | Stack | Status |
-|---|---------|-------|--------|
-| 01 | **Home Lab & Smart Home** | UniFi · VLANs · Docker · Rack · USV | ![Active](https://img.shields.io/badge/Active-1DB954?style=flat-square) |
-| 02 | **Windows Server Lab** | Hyper-V · Failover Cluster · Oracle DB | ![Active](https://img.shields.io/badge/Active-1DB954?style=flat-square) |
-| 03 | **Monitoring Stack** | PRTG · Uptime Kuma · REST Sensors | ![Active](https://img.shields.io/badge/Active-1DB954?style=flat-square) |
-| 04 | **Secure Remote Access** | VPN · UniFi · 2FA · MAC Whitelist | ![WIP](https://img.shields.io/badge/WIP-E8900A?style=flat-square) |
-
----
-
-## 📅 Career
+## 🛠️ Stack
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-```
-Aug 2025 →         Informatiker Plattformentwicklung LJ 2
-                   Varioprint AG via LIBS
-                   GBS Sankt Gallen
-
-Aug 2024–Jul 2025  Basislehrjahr (BL) + ÜK
-                   Sankt Gallen
-```
+### ⚙️ Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=flat-square&logo=microsoft&logoColor=white)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-```
-  🟢 NOW  ← LJ 2/4
-  │
-  │  Aug 2025 
-  │  Varioprint AG
-  │  Informatiker Plattformentwicklung
-  │
-  │  Aug 2024 - Aug 2025
-  │  Basislehrjahr + ÜK
-  │  Sankt Gallen
-  │
-  ○  Start Lehre (Aug. 24)
-```
+### 🤖 Automation
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### 📡 Monitoring
+![PRTG](https://img.shields.io/badge/PRTG-brightgreen?style=flat-square)
+![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=flat-square&logo=uptimekuma&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 </td>
 </tr>
@@ -108,17 +72,93 @@ Aug 2024–Jul 2025  Basislehrjahr (BL) + ÜK
 
 ---
 
+## 🧠 Currently Learning
+
+<div align="center">
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 What I'm Up To
+
+```diff
++ [LJ 2/4]  Deepening platform & DevOps knowledge at Varioprint AG
++ [School]  M158/M169 · Dockerized application migrations
++ [Lab]     Self-hosted services & automation workflows
++ [Side]    Tinkering with hardware & security tooling
+! [Goal]    Cloud-native skills → K8s, IaC, GitOps
+```
+
+---
+
+## 📅 Journey
+
+<div align="center">
+
+```
+   ●  Aug 2024 ──────────  Start Lehre · Basislehrjahr (BL)
+   │                        Sankt Gallen · ÜK-Module
+   │
+   │
+   ●  Aug 2025 ──────────  Lehrbetrieb · Varioprint AG (via LIBS)
+   │                        LJ 2/4 · Plattformentwicklung
+   │                        GBS Sankt Gallen · 2 Tage/Woche
+   │
+   │
+   ◌  Aug 2027 ──────────  LJ 3/4 · 1 Tag Schule/Woche
+   │
+   │
+   ◌  Sommer 2028 ───────  EFZ · Informatiker Plattformentwicklung
+```
+
+</div>
+
+---
+
 ## 📊 Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Soluk13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soluk13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Soluk13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soluk13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Soluk13&theme=tokyonight&hide_border=true&date_format=j.%20M%5B.%20Y%5D&locale=de" width="55%"/>
+<img src="https://streak-stats.demolab.com?user=Soluk13&theme=tokyonight&hide_border=true&date_format=j.%20M%5B.%20Y%5D&locale=de" width="58%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Soluk13&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="95%"/>
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soluk13&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Soluk13)
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Soluk13/Soluk13/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+## 💭 Random Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -126,12 +166,16 @@ Aug 2024–Jul 2025  Basislehrjahr (BL) + ÜK
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Soluk13&style=flat-square&color=1B4BFF)
+![Profile views](https://komarev.com/ghpvc/?username=Soluk13&style=for-the-badge&color=1B4BFF&label=PROFILE+VIEWS)
 &nbsp;
-![Switzerland](https://img.shields.io/badge/CH-Switzerland-red?style=flat-square)
+![Switzerland](https://img.shields.io/badge/Made_in-Switzerland_🇨🇭-red?style=for-the-badge)
 &nbsp;
-![Year](https://img.shields.io/badge/2025-LJ_2%2F4-1B4BFF?style=flat-square)
+![Year](https://img.shields.io/badge/2026-LJ_2%2F4-1B4BFF?style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1B4BFF&height=100&section=footer" width="100%"/>
+<br/>
+
+> *"It's not a bug — it's an undocumented feature."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer" width="100%"/>
 
 </div>
