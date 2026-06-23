@@ -127,7 +127,7 @@ Platform engineering apprentice focused on **infrastructure, networking, virtual
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Soluk13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=450" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Soluk09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=450" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soluk13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="180"/>
 
 <br/><br/>
@@ -140,7 +140,7 @@ Platform engineering apprentice focused on **infrastructure, networking, virtual
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soluk13&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Soluk13)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soluk09&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Soluk13)
 
 </div>
 
