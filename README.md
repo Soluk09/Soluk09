@@ -37,6 +37,16 @@ Platform engineering apprentice focused on **infrastructure, networking, virtual
 
 ---
 
+## ` > where_i_come_from `
+
+<div align="center">
+
+<img src="./assets/where-i-come-from.png" width="100%" alt="Where I come from – Switzerland, Germany, Croatia"/>
+
+</div>
+
+---
+
 ## ` > tech_stack `
 
 <table>
@@ -130,22 +140,6 @@ Platform engineering apprentice focused on **infrastructure, networking, virtual
 <br/><br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soluk09&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Soluk09)
-
-</div>
-
----
-
-## ` > location `
-
-<div align="center">
-
-<a href="https://www.google.com/maps/place/Switzerland">
-  <img src="https://img.shields.io/badge/📍_Based_in-Switzerland_🇨🇭-1B4BFF?style=for-the-badge&labelColor=101010" alt="Switzerland"/>
-</a>
-
-<br/><br/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Rotating_earth_animated_transparent.gif" width="280" alt="Rotating Earth"/>
 
 </div>
 
