@@ -77,11 +77,11 @@ My focus is IT infrastructure, platform operations, networking, virtualization, 
 <td valign="top" width="50%">
 
 ```
-Aug 2024 →         Informatiker Plattformentwicklung LJ 2
+Aug 2025 →         Informatiker Plattformentwicklung LJ 2
                    Varioprint AG via LIBS
                    GBS Sankt Gallen
 
-Aug 2023–Jul 2024  Basislehrjahr (BL) + ÜK
+Aug 2024–Jul 2025  Basislehrjahr (BL) + ÜK
                    Sankt Gallen
 ```
 
