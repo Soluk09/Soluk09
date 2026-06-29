@@ -27,7 +27,7 @@
 │   year          →   2 of 4                               │
 │   company       →   Varioprint AG  (via LIBS)            │
 │   school        →   GBS Sankt Gallen · Riethüsli         │
-│   location      →   Switzerland 🇨🇭                      │
+│   location      →   Switzerland 🇨🇭                       │
 │   status        →   learning · building · breaking       │
 │                                                          │
 ╰──────────────────────────────────────────────────────────╯
